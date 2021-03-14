@@ -1,4 +1,3 @@
-### Hi there 👋
 ![:lakomoor](https://count.getloli.com/get/@:lakomoor?theme=rule34)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
