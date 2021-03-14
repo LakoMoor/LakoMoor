@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![:lakomoor](https://count.getloli.com/get/@:lakomoor?theme=rule34)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakomoor)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakomoor&show_icons=true&theme=dracula)](https://github.com/lakomoor/github-readme-stats)
 
 <!--
 **LakoMoor/LakoMoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
