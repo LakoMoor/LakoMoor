@@ -1,5 +1,5 @@
 ### Hi there 👋
-![:lakomoor](https://count.getloli.com/get/@:lakomoor)
+[![:lakomoor](https://count.getloli.com/get/@:lakomoor?theme=rule34)]
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakomoor)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
