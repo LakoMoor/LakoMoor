@@ -4,9 +4,9 @@
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![C](https://img.shields.io/badge/-C-%23007ACC?style=flat-square&logo=c)
+![C](https://img.shields.io/badge/-C-gray?style=flat-square&logo=c)
 ![CPP](https://img.shields.io/badge/-C++-%23007ACC?style=flat-square&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-%23007ACC?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
