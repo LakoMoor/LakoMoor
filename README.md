@@ -4,7 +4,7 @@
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![CPP](https://img.shields.io/badge/-C++-%23007ACC?style=flat-square&logo=c++)
+![CPP](https://img.shields.io/badge/-C++-%23007ACC?style=flat-square&logo=cplusplus)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
