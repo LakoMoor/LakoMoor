@@ -13,7 +13,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakomoor&show_icons=true&theme=dracula)](https://github.com/lakomoor/github-readme-stats)
 
 ## Donut
-
+<!--
              k;double sin()
          ,cos();main(){float A=
        0,B=0,i,j,z[1760];char b[
@@ -35,6 +35,7 @@ in(B),t=c*h*g-f*        e;int x=40+30*D*
        ~::==!!!**********!!!==::-
          .,~~;;;========;;;:~-.
              ..,--------,*/
+-->
 <!--
 **LakoMoor/LakoMoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
