@@ -13,6 +13,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakomoor&show_icons=true&theme=dracula)](https://github.com/lakomoor/github-readme-stats)
 
 ## Donut
+<iframe src="https://giphy.com/embed/hrRJ41JB2zlgZiYcCw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/memecandy-hrRJ41JB2zlgZiYcCw">via GIPHY</a></p>
 <!--
              k;double sin()
          ,cos();main(){float A=
