@@ -11,7 +11,7 @@
 
 ## Ongoing
 
-![LKEngine](https://github.com/lakomoor/lkengine)
+**[LKEngine](https://github.com/lakomoor/lkengine)**
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
