@@ -17,10 +17,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakomoor&show_icons=true&theme=dracula)](https://github.com/lakomoor/github-readme-stats)
 
-## Music
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=220aeaxp8clty2ztekkjeorfv&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-
 ## Donut
 ![ME](https://media.giphy.com/media/gU25raLP4pUu4/source.gif)
 <!--
