@@ -10,7 +10,10 @@
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 
 ## Ongoing
+**[LakoMoor Dev](https://github.com/LakoMoorDev)**
+**[SUHARCOIN](https://github.com/suharcoin-project)**
 
+## Closed
 **[LKEngine](https://github.com/lakomoor/lkengine)**
 
 ## 𝗦𝘁𝗮𝘁𝘀
