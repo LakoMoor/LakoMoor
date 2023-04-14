@@ -24,6 +24,10 @@
 ## Donut
 ![ME](https://media.giphy.com/media/gU25raLP4pUu4/source.gif)
 <!--
+git status
+git commit -m "Text" <file/folder>
+git push
+
              k;double sin()
          ,cos();main(){float A=
        0,B=0,i,j,z[1760];char b[
