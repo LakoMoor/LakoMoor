@@ -40,7 +40,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lakomoor&show_icons=true&theme=dracula)
 
 # Mmmm… Donuts... Grr! 
-```cpp
+```c
              k;double sin()
          ,cos();main(){float A=
        0,B=0,i,j,z[1760];char b[
@@ -63,6 +63,9 @@ in(B),t=c*h*g-f*        e;int x=40+30*D*
          .,~~;;;========;;;:~-.
              ..,--------,*/
 
+```
+```shell
+gcc -o donut donut.c -lm
 ```
 
 ## Donate
