@@ -3,6 +3,7 @@
 ![:lakomoor](https://count.getloli.com/get/@:lakomoor?theme=rule34)
 
 ## Projects
+[![L2D](https://img.shields.io/badge/-L2D-000?&logo=c%2B%2B)](https://github.com/LakoMoor/L2D)
 [![LDBox](https://img.shields.io/badge/-LDBox-000?&logo=c%2B%2B)](https://github.com/LakoMoor/LDBox)
 [![Torque3D](https://img.shields.io/badge/-Torque3D-000?&logo=c%2B%2B)](https://github.com/TorqueGameEngines/Torque3D)
 [![Source Engine](https://img.shields.io/badge/-SourceEngine-000?&logo=c%2B%2B)](https://github.com/nillerusr/source-engine)
