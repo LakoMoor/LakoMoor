@@ -69,20 +69,4 @@ in(B),t=c*h*g-f*        e;int x=40+30*D*
 gcc -o donut donut.c -lm
 ```
 
-## Donate
-**ETH:** `0xe7b4E36eAc8761fc5C8bb6bDc25B4F03dd165Add` 
 
-**TON:** `EQApmFavJfxYY_lKGllr2vN-NvpZrqlqPch4QJ27vBGOhE_7`
-
-**BNB:** `0xddd760012437597069cf727c6f73d0b8275e94ec` (BEP20)
-
-**BUSD:** `0xddd760012437597069cf727c6f73d0b8275e94ec` (BEP20)
-
-**USDT:** `0xe7b4E36eAc8761fc5C8bb6bDc25B4F03dd165Add` (ERC20)
-
-**USDT:** `TCgvvFwe1djeTmFAi1faBqNKEJMwMvDHMt` (TRC20)
-<!--
-git status
-git commit -m "Text" <file/folder>
-git push
--->
