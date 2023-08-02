@@ -10,17 +10,12 @@
 
 
 ## Languages
-### Favorite
 ![CPP](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-000?&logo=c)
-![C#](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![GO](https://img.shields.io/badge/-Golang-000?&logo=Go)
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
-### Other
 ![JavaScript](https://img.shields.io/badge/-JS-000?&logo=JavaScript)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
+
 ### Technologies
 [![GLFW](https://img.shields.io/badge/-GLFW-000?&logo=OpenGL)](https://www.glfw.org/)
 [![SDL](https://img.shields.io/badge/-SDL-000?&logo=libsdl)](https://www.libsdl.org/)
