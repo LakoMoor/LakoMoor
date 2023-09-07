@@ -13,18 +13,18 @@
 ![CPP](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-000?&logo=c)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![GO](https://img.shields.io/badge/-Golang-000?&logo=Go)
 ![JavaScript](https://img.shields.io/badge/-JS-000?&logo=JavaScript)
 
 ### Technologies
-[![GLFW](https://img.shields.io/badge/-GLFW-000?&logo=OpenGL)](https://www.glfw.org/)
 [![SDL](https://img.shields.io/badge/-SDL-000?&logo=libsdl)](https://www.libsdl.org/)
+[![GLFW](https://img.shields.io/badge/-GLFW-000?&logo=OpenGL)](https://www.glfw.org/)
 [![FastApi](https://img.shields.io/badge/-FastApi-000?&logo=FastApi)](https://fastapi.tiangolo.com/)
 [![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)](https://flask.palletsprojects.com/)
+[![NextJS](https://img.shields.io/badge/-NextJS-000?&logo=nextjs)](https://nextjs.org/)
 [![ReactJS](https://img.shields.io/badge/-ReactJS-000?&logo=React)](https://reactjs.org/)
 [![ReactNative](https://img.shields.io/badge/-ReactNative-000?&logo=React)](https://reactnative.dev/)
 [![JQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery)](https://jquery.com/)
-[![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)](https://www.Flutter.dev/)
+[![Bootstrap](https://img.shields.io/badge/-bootstrap-000?&logo=bootstrap)](https://getbootstrap.com/)
 
 
 ## My Dev company
