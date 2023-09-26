@@ -6,7 +6,7 @@
 [![L3D](https://img.shields.io/badge/-L3D-000?&logo=c%2B%2B)](https://github.com/LakoMoor/L3D)
 [![LDBox](https://img.shields.io/badge/-LDBox-000?&logo=c%2B%2B)](https://github.com/LakoMoor/LDBox)
 [![Torque3D](https://img.shields.io/badge/-Torque3D-000?&logo=c%2B%2B)](https://github.com/TorqueGameEngines/Torque3D)
-[![SE2013](https://img.shields.io/badge/-SourceEngine-000?&logo=c%2B%2B)](https://github.com/lakomoor/se2013)
+[![SE2013](https://img.shields.io/badge/-SE2013-000?&logo=c%2B%2B)](https://github.com/lakomoor/se2013)
 
 
 ## Languages
