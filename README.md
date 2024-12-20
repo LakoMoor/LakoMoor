@@ -3,19 +3,20 @@
 ![:lakomoor](https://count.getloli.com/get/@:lakomoor?theme=rule34)
 
 ## Projects
-[![L3D](https://img.shields.io/badge/-L3D-000?&logo=c%2B%2B)](https://github.com/LakoMoor/L3D)
+[![L3D](https://img.shields.io/badge/-ELA-000?&logo=PYTORCH)](https://github.com/VikhrModels/effective_llm_alignment)
 [![LDBox](https://img.shields.io/badge/-LDBox-000?&logo=c%2B%2B)](https://github.com/LakoMoor/LDBox)
 [![Torque3D](https://img.shields.io/badge/-Torque3D-000?&logo=c%2B%2B)](https://github.com/TorqueGameEngines/Torque3D)
-[![SE2013](https://img.shields.io/badge/-SE2013-000?&logo=c%2B%2B)](https://github.com/lakomoor/se2013)
 
 
 ## Languages
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![CPP](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-000?&logo=c)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JS-000?&logo=JavaScript)
 
 ### Technologies
+[![Transformers](https://img.shields.io/badge/-Transformers-000?&logo=Transformers)](https://www.pytorch.org/)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)](https://www.pytorch.org/)
 [![SDL](https://img.shields.io/badge/-SDL-000?&logo=libsdl)](https://www.libsdl.org/)
 [![GLFW](https://img.shields.io/badge/-GLFW-000?&logo=OpenGL)](https://www.glfw.org/)
 [![FastApi](https://img.shields.io/badge/-FastApi-000?&logo=FastApi)](https://fastapi.tiangolo.com/)
@@ -27,8 +28,9 @@
 [![Bootstrap](https://img.shields.io/badge/-bootstrap-000?&logo=bootstrap)](https://getbootstrap.com/)
 
 
-## My Dev company
+## Company
 [![LakoMoorDev](https://img.shields.io/badge/-LakoMoorDev-000?&logo=c%2B%2B)](https://github.com/LakoMoorDev)
+[![VikhrModels](https://img.shields.io/badge/-VikhrModels-000?&logo=pytorch)](https://github.com/VikhrModels)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakomoor&layout=compact&theme=dracula)
