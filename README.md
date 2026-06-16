@@ -2,31 +2,20 @@
 
 ![:lakomoor](https://count.getloli.com/get/@:lakomoor?theme=rule34)
 
-## Projects
-[![L3D](https://img.shields.io/badge/-ELA-000?&logo=PYTORCH)](https://github.com/VikhrModels/effective_llm_alignment)
-[![LDBox](https://img.shields.io/badge/-LDBox-000?&logo=c%2B%2B)](https://github.com/LakoMoor/LDBox)
-[![Torque3D](https://img.shields.io/badge/-Torque3D-000?&logo=c%2B%2B)](https://github.com/TorqueGameEngines/Torque3D)
-
-
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 ![CPP](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)
-![C](https://img.shields.io/badge/-C-000?&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JS-000?&logo=JavaScript)
 
 ### Technologies
-[![Transformers](https://img.shields.io/badge/-Transformers-000?&logo=Transformers)](https://www.pytorch.org/)
+[![Transformers](https://img.shields.io/badge/-Transformers-000?&logo=Transformers)](https://huggingface.co/docs/transformers/en/index)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)](https://www.pytorch.org/)
-[![SDL](https://img.shields.io/badge/-SDL-000?&logo=libsdl)](https://www.libsdl.org/)
+[![SDL2](https://img.shields.io/badge/-SDL-000?&logo=libsdl)](https://www.libsdl.org/)
 [![GLFW](https://img.shields.io/badge/-GLFW-000?&logo=OpenGL)](https://www.glfw.org/)
 [![FastApi](https://img.shields.io/badge/-FastApi-000?&logo=FastApi)](https://fastapi.tiangolo.com/)
 [![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)](https://flask.palletsprojects.com/)
 [![NextJS](https://img.shields.io/badge/-NextJS-000?&logo=nextjs)](https://nextjs.org/)
-[![ReactJS](https://img.shields.io/badge/-ReactJS-000?&logo=React)](https://reactjs.org/)
-[![ReactNative](https://img.shields.io/badge/-ReactNative-000?&logo=React)](https://reactnative.dev/)
-[![JQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery)](https://jquery.com/)
-[![Bootstrap](https://img.shields.io/badge/-bootstrap-000?&logo=bootstrap)](https://getbootstrap.com/)
-
 
 ## Company
 [![LakoMoorDev](https://img.shields.io/badge/-LakoMoorDev-000?&logo=c%2B%2B)](https://github.com/LakoMoorDev)
