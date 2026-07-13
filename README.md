@@ -6,7 +6,6 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 ![CPP](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/-JS-000?&logo=JavaScript)
 
 ### Technologies
 [![Transformers](https://img.shields.io/badge/-Transformers-000?&logo=Transformers)](https://huggingface.co/docs/transformers/en/index)
@@ -15,7 +14,6 @@
 [![GLFW](https://img.shields.io/badge/-GLFW-000?&logo=OpenGL)](https://www.glfw.org/)
 [![FastApi](https://img.shields.io/badge/-FastApi-000?&logo=FastApi)](https://fastapi.tiangolo.com/)
 [![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)](https://flask.palletsprojects.com/)
-[![NextJS](https://img.shields.io/badge/-NextJS-000?&logo=nextjs)](https://nextjs.org/)
 
 ## Company
 [![LakoMoorDev](https://img.shields.io/badge/-LakoMoorDev-000?&logo=c%2B%2B)](https://github.com/LakoMoorDev)
