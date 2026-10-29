@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<rect width="1200" height="300" rx="18" fill="#101820"/>
+<path d="M784 0v300M864 0v300M944 0v300M1024 0v300M1104 0v300M1200 70H744M1200 150H744M1200 230H744" stroke="#24323b" stroke-width="1"/>
+<rect x="48" y="44" width="8" height="8" fill="#e8ac74"/>
+<text x="70" y="53" fill="#a9b9bd" font-family="monospace" font-size="13" letter-spacing="3">NIKOLAY / LAKOMOOR</text>
+<text x="45" y="151" fill="#f1eee5" font-family="Arial,Helvetica,sans-serif" font-size="82" font-weight="700" letter-spacing="-4">LakoMoor</text>
+<text x="50" y="193" fill="#c0cbd0" font-family="monospace" font-size="18">ML/DL Research Engineer</text>
+<path d="M50 228H690" stroke="#34434b"/>
+<text x="50" y="260" fill="#94a6ae" font-family="monospace" font-size="12" letter-spacing="2">NEURAL NETWORKS</text>
+<text x="248" y="260" fill="#e8ac74" font-family="monospace" font-size="12">/</text>
+<text x="274" y="260" fill="#94a6ae" font-family="monospace" font-size="12" letter-spacing="2">GAME ENGINES</text>
+<text x="445" y="260" fill="#e8ac74" font-family="monospace" font-size="12">/</text>
+<text x="470" y="260" fill="#94a6ae" font-family="monospace" font-size="12" letter-spacing="2">FPGA</text>
+<g fill="none" stroke="#77b7b2" stroke-width="2">
+<path d="M802 90h62l80 60h80l80-60h60M802 210h62l80-60M1024 150l80 60h60"/>
+<rect x="918" y="124" width="52" height="52" rx="9" fill="#101820"/>
+</g>
+<g fill="#101820" stroke="#e8ac74" stroke-width="2"><circle cx="802" cy="90" r="7"/><circle cx="802" cy="210" r="7"/><circle cx="1164" cy="90" r="7"/><circle cx="1164" cy="210" r="7"/></g>
+<rect x="937" y="143" width="14" height="14" rx="3" fill="#e8ac74"/>
+<text x="944" y="263" fill="#6c858e" text-anchor="middle" font-family="monospace" font-size="11" letter-spacing="2">PYTHON / RUST / C++ / RTL</text>
+</svg>
