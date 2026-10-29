@@ -22,6 +22,22 @@ Python and PyTorch for ML; Rust and C/C++ for engines and native tools; Verilog 
 
 <br />
 
+<details>
+<summary><b><code>$ ls ~/rabbit-holes</code></b> — pick a detour</summary>
+
+<br />
+
+| If you came here to… | Open this |
+| :--- | :--- |
+| Train or align an LLM | [Effective LLM Alignment](https://github.com/VikhrModels/effective_llm_alignment) |
+| Run a model on an FPGA | [openTPU · Tang Nano 20K](https://github.com/LakoMoor/openTPU-tangnano20k) |
+| Boot a Nokia without a Nokia | [OpenNokia3310](https://github.com/LakoMoor/OpenNokia3310) |
+| Keep a fly in your Game Boy | [FlyWireGBA releases](https://github.com/LakoMoor/FlyWireGBA/releases) |
+| Animate Miku in a browser | [openMMD web editor](https://lakomoor.github.io/openMMD/app/) |
+| Go back to Дальнобойщики 2 | [openHT2](https://github.com/LakoMoor/openHT2) |
+
+</details>
+
 ## `01` &nbsp; Selected projects
 
 <table>
@@ -95,6 +111,18 @@ A parametric equalizer for browser tabs. Drag the filters, watch the spectrum, s
 [L2D](https://github.com/LakoMoor/L2D) — an earlier C++ / SDL2 engine
 
 </details>
+
+<br />
+
+## `03` &nbsp; Feeding the snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/snake.svg" />
+  <img src="assets/snake.svg" width="100%" alt="A snake eating my GitHub contributions, refreshed daily" />
+</picture>
+
+<sub>My contribution graph, one square at a time. [Updated daily](https://github.com/LakoMoor/LakoMoor/actions/workflows/snake.yml) · [Made with snk](https://github.com/Platane/snk)</sub>
 
 <br />
 
