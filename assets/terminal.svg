@@ -1,11 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350">
+<style>@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}.cursor{animation:blink 1.2s step-end infinite}@media(prefers-reduced-motion:reduce){.cursor{animation:none}}</style>
 <rect width="1200" height="350" rx="12" fill="#0d1512"/>
 <rect x="1" y="1" width="1198" height="348" rx="11" fill="none" stroke="#31483b"/>
 <path d="M0 38H1200M40 295H1160" stroke="#31483b"/>
 <g fill="#789184"><circle cx="23" cy="20" r="4"/><circle cx="39" cy="20" r="4"/><circle cx="55" cy="20" r="4"/></g>
 <text x="600" y="24" text-anchor="middle" font-family="monospace" font-size="12" fill="#789184">lakomoor@github: ~/workbench</text>
 <text x="42" y="80" font-family="monospace" font-size="15" fill="#8baf98">$ whoami</text>
-<text x="38" y="163" font-family="monospace" font-size="78" font-weight="700" letter-spacing="-5" fill="#c9f3ad">LakoMoor<tspan fill="#536e5b">_</tspan></text>
+<text x="38" y="163" font-family="monospace" font-size="78" font-weight="700" letter-spacing="-5" fill="#c9f3ad">LakoMoor<tspan class="cursor" fill="#c9f3ad">_</tspan></text>
 <text x="42" y="204" font-family="monospace" font-size="20" fill="#d4ded5">Nikolay / ML &amp; DL Research Engineer</text>
 <text x="42" y="250" font-family="monospace" font-size="14" fill="#8baf98">models, old engines, small hardware.</text>
 <text x="42" y="326" font-family="monospace" font-size="12" letter-spacing="1" fill="#8baf98">PYTHON / RUST / C / C++ / VERILOG</text>
