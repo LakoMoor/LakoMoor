@@ -1,22 +1,22 @@
-<div align="center">
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="LakoMoor — Nikolay, ML/DL Research Engineer. Neural networks, game engines, FPGA." />
+</p>
 
-# LakoMoor
+<p align="center">
+  <a href="https://lakomoor.com">Website ↗</a> &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://huggingface.co/LakoMoor">Hugging Face ↗</a> &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/VikhrModels">VikhrModels ↗</a>
+</p>
 
-**Nikolay · ML/DL Research Engineer**
-
-[Website](https://lakomoor.com) &nbsp; / &nbsp; [Hugging Face](https://huggingface.co/LakoMoor) &nbsp; / &nbsp; [VikhrModels](https://github.com/VikhrModels)
-
-<sub>i'm the bird of hermes</sub>
-
-</div>
-
----
+<br />
 
 I work on machine learning. Here you'll also find old game engines, FPGA experiments, and a fruit fly running on a Game Boy Advance.
 
-Most of the code is Python, Rust, or C/C++. Some of it is Verilog. The projects below are at different stages; their READMEs document what works so far.
+**Python & PyTorch** for models. **Rust & C/C++** for engines and native tools. **Verilog & SystemVerilog** when the software needs its own hardware.
 
-## A few things to open
+<br />
+
+## Selected projects
 
 <table>
 <tr>
@@ -43,15 +43,39 @@ An early MikuMikuDance-compatible animation editor. Models, bones, and keyframes
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [OpenNokia3310](https://github.com/LakoMoor/OpenNokia3310)
+
+Original Nokia firmware running on an FPGA. An ARM7TDMI core and the phone’s own menus; boot reliability is still a work in progress.
+
+<a href="https://github.com/LakoMoor/OpenNokia3310"><img src="https://raw.githubusercontent.com/LakoMoor/OpenNokia3310/HEAD/docs/img/menu-en.png" alt="Nokia phonebook menu captured from the FPGA board" width="100%" /></a>
+
+<sub>SystemVerilog · ARM7TDMI · Tang Nano 20K</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [LakoTone EQ](https://github.com/LakoMoor/lakotone-eq-chrome)
+
+A parametric equalizer for browser tabs. Drag the filters, watch the spectrum, save a preset. Audio processing stays on your device.
+
+<a href="https://github.com/LakoMoor/lakotone-eq-chrome"><img src="https://raw.githubusercontent.com/LakoMoor/lakotone-eq-chrome/HEAD/store-assets/screenshot-1280x800.png" alt="LakoTone EQ filters and live frequency spectrum" width="100%" /></a>
+
+<sub>JavaScript · Web Audio · Chromium</sub>
+
+</td>
+</tr>
 </table>
 
-## Models, hardware, and other detours
+<br />
+
+## On the workbench
 
 - **[Effective LLM Alignment](https://github.com/VikhrModels/effective_llm_alignment)** — training and alignment tools at VikhrModels: SFT, preference optimization, reward modeling, and distillation.
 - **[openTPU on Tang Nano 20K](https://github.com/LakoMoor/openTPU-tangnano20k)** — an openTPU ISA implementation for a small FPGA, with language model weights streamed from an SD card.
-- **[OpenNokia3310](https://github.com/LakoMoor/OpenNokia3310)** — running original Nokia firmware on an FPGA. Real menus, an ARM7TDMI core, and still-unreliable boots.
 - **[openHT2](https://github.com/LakoMoor/openHT2)** — rebuilding the runtime of *Hard Truck 2 / Дальнобойщики 2* in Rust. File formats, rendering, and vehicle physics.
-- **[LakoTone EQ](https://github.com/LakoMoor/lakotone-eq-chrome)** — a parametric equalizer for browser tabs, with a live spectrum and local audio processing.
 
 <details>
 <summary>More engines and hardware</summary>
@@ -65,3 +89,9 @@ An early MikuMikuDance-compatible animation editor. Models, bones, and keyframes
 [L2D](https://github.com/LakoMoor/L2D) — an earlier C++ / SDL2 engine
 
 </details>
+
+<br />
+
+---
+
+<p align="center"><sub>i’m the bird of hermes</sub></p>
