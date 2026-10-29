@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="LakoMoor — Nikolay, ML/DL Research Engineer. Neural networks, game engines, FPGA." />
+  <img src="assets/terminal.svg" width="100%" alt="LakoMoor — Nikolay, ML/DL Research Engineer. Neural networks, game engines, FPGA." />
 </p>
 
 <p align="center">
