@@ -3,54 +3,54 @@
 </p>
 
 <p align="center">
-  <a href="https://lakomoor.com"><img src="https://img.shields.io/badge/WEBSITE-c9f3ad?style=flat-square&amp;logo=firefoxbrowser&amp;logoColor=0d1512" alt="Website" /></a>
-  &nbsp;
-  <a href="https://huggingface.co/LakoMoor"><img src="https://img.shields.io/badge/Hugging_Face-c9f3ad?style=flat-square&amp;logo=huggingface&amp;logoColor=0d1512" alt="Hugging Face" /></a>
-  &nbsp;
-  <a href="https://github.com/VikhrModels"><img src="https://img.shields.io/badge/VikhrModels-c9f3ad?style=flat-square&amp;logo=github&amp;logoColor=0d1512" alt="VikhrModels" /></a>
+  <a href="https://lakomoor.com"><img src="https://img.shields.io/badge/WEBSITE-c9f3ad?style=for-the-badge&logo=firefoxbrowser&logoColor=0d1512" alt="Website" /></a>
+  <a href="https://huggingface.co/LakoMoor"><img src="https://img.shields.io/badge/HUGGING_FACE-c9f3ad?style=for-the-badge&logo=huggingface&logoColor=0d1512" alt="Hugging Face" /></a>
+  <a href="https://github.com/VikhrModels"><img src="https://img.shields.io/badge/VIKHRMODELS-c9f3ad?style=for-the-badge&logo=github&logoColor=0d1512" alt="VikhrModels" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LakoMoor&label=profile%20views&color=c9f3ad&labelColor=0d1512&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/LakoMoor?label=followers&color=c9f3ad&labelColor=0d1512&style=flat-square" alt="Followers" />
 </p>
 
 <br />
 
-I work on machine learning. Here you'll also find old game engines, FPGA experiments, and a fruit fly running on a Game Boy Advance.
+## `$ whoami`
 
-Python and PyTorch for ML; Rust and C/C++ for engines and native tools; Verilog and SystemVerilog for FPGA projects.
+**Nikolay** — ML/DL research engineer. By day I train and align language models at [VikhrModels](https://github.com/VikhrModels). By night I take things apart and rebuild them: old game engines in Rust, a Nokia on an FPGA, a fruit fly on a Game Boy Advance.
+
+> The common thread: *take something closed, understand how it really works, and rebuild it in the open.*
+
+<br />
+
+## `01` &nbsp; Stack
+
+| Area | Tools |
+| :--- | :--- |
+| **Machine learning** | Python · PyTorch · SFT / preference optimization / reward modeling / distillation |
+| **Systems & engines** | Rust · wgpu · C · C++ |
+| **Hardware** | Verilog · SystemVerilog · Sipeed Tang Nano 20K · open FPGA toolchain |
+| **Web & tooling** | TypeScript · JavaScript · Go · GitHub Actions |
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,rust,c,cpp&amp;theme=dark" height="34" alt="Python, PyTorch, Rust, C, C++" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,rust,c,cpp,ts,go,githubactions&theme=dark" height="38" alt="Python, PyTorch, Rust, C, C++, TypeScript, Go, GitHub Actions" />
 </p>
 
 <br />
 
-<details>
-<summary><b><code>$ ls ~/rabbit-holes</code></b> — pick a detour</summary>
-
-<br />
-
-| If you came here to… | Open this |
-| :--- | :--- |
-| Train or align an LLM | [Effective LLM Alignment](https://github.com/VikhrModels/effective_llm_alignment) |
-| Run a model on an FPGA | [openTPU · Tang Nano 20K](https://github.com/LakoMoor/openTPU-tangnano20k) |
-| Boot a Nokia without a Nokia | [OpenNokia3310](https://github.com/LakoMoor/OpenNokia3310) |
-| Keep a fly in your Game Boy | [FlyWireGBA releases](https://github.com/LakoMoor/FlyWireGBA/releases) |
-| Animate Miku in a browser | [openMMD web editor](https://lakomoor.github.io/openMMD/app/) |
-| Go back to Дальнобойщики 2 | [openHT2](https://github.com/LakoMoor/openHT2) |
-
-</details>
-
-## `01` &nbsp; Selected projects
+## `02` &nbsp; Selected projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [FlyWireGBA](https://github.com/LakoMoor/FlyWireGBA)
+### [FlyWireGBA](https://github.com/LakoMoor/FlyWireGBA) &nbsp;<sup>★ 11</sup>
 
 A fruit fly on the GBA: a reduced real FlyWire connectome, a neural activity view, and a Tamagotchi mode.
 
 <a href="https://github.com/LakoMoor/FlyWireGBA"><img src="https://raw.githubusercontent.com/LakoMoor/FlyWireGBA/HEAD/docs/demo.gif" alt="FlyWireGBA running in mGBA" height="155" /></a>
 
-<sub>C · Game Boy Advance</sub>
+<sub>C · Game Boy Advance · <a href="https://github.com/LakoMoor/FlyWireGBA/releases">Releases</a></sub>
 
 </td>
 <td width="50%" valign="top">
@@ -70,7 +70,7 @@ An early MikuMikuDance-compatible animation editor. Models, bones, and keyframes
 
 ### [OpenNokia3310](https://github.com/LakoMoor/OpenNokia3310)
 
-Original Nokia firmware running on an FPGA. An ARM7TDMI core and the phone’s own menus; boot reliability is still a work in progress.
+Original Nokia firmware running on an FPGA. An ARM7TDMI core and the phone's own menus. Work in progress.
 
 <a href="https://github.com/LakoMoor/OpenNokia3310"><img src="https://raw.githubusercontent.com/LakoMoor/OpenNokia3310/HEAD/docs/img/menu-en.png" alt="Nokia phonebook menu captured from the FPGA board" height="155" /></a>
 
@@ -93,28 +93,47 @@ A parametric equalizer for browser tabs. Drag the filters, watch the spectrum, s
 
 <br />
 
-## `02` &nbsp; On the workbench
+## `03` &nbsp; Everything else, by theme
 
-- **[Effective LLM Alignment](https://github.com/VikhrModels/effective_llm_alignment)** — training and alignment tools at VikhrModels: SFT, preference optimization, reward modeling, and distillation.
-- **[openTPU on Tang Nano 20K](https://github.com/LakoMoor/openTPU-tangnano20k)** — an openTPU ISA implementation for a small FPGA, with language model weights streamed from an SD card.
-- **[openHT2](https://github.com/LakoMoor/openHT2)** — rebuilding the runtime of *Hard Truck 2 / Дальнобойщики 2* in Rust. File formats, rendering, and vehicle physics.
+### 🧠 ML & AI agents
 
-<details>
-<summary><b>↳ More engines and hardware</b></summary>
+| Project | What it is |
+| :--- | :--- |
+| [Effective LLM Alignment](https://github.com/VikhrModels/effective_llm_alignment) | Training and alignment toolkit at VikhrModels: SFT, preference optimization, reward modeling, distillation. |
+| [portcode](https://github.com/LakoMoor/portcode) `★ 8` | Port anything to Rust, with proof. Terminal agent for reverse engineering and Rust ports on local / self-hosted LLMs. |
+| [rustport-skill](https://github.com/LakoMoor/rustport-skill) | Claude Code skill for porting games and apps to Rust (+ wgpu). |
+| [Axiom](https://github.com/LakoMoor/Axiom) | See how software works, with local AI models. Pure Rust. |
+| [termvm](https://github.com/LakoMoor/termvm) | A separate desktop for AI agents: a QEMU Linux/Windows VM controlled from a terminal, with an MCP server. |
+| [mlchain](https://github.com/LakoMoor/mlchain) | A blockchain where mining *is* training a neural network (Proof of Training). |
+
+### 🎮 Engines & reimplementations
+
+| Project | What it is |
+| :--- | :--- |
+| [openHT2](https://github.com/LakoMoor/openHT2) `★ 4` | Free engine reimplementation of *Hard Truck 2 / Дальнобойщики 2* in Rust + wgpu. |
+| [openSA](https://github.com/LakoMoor/openSA) | GTA San Andreas runtime in C++ (librw). No game files included. |
+| [sbox-rs](https://github.com/LakoMoor/sbox-rs) | s&box in Rust: scene runtime, Source 2 format loaders, renderer. |
+| [pz-rust](https://github.com/LakoMoor/pz-rust) | Project Zomboid (Build 42) reimplemented from scratch in Rust. |
+| [metrostroi-rs](https://github.com/LakoMoor/metrostroi-rs) | Metro simulator in Rust + wgpu running Metrostroi content and Lua logic. |
+| [aeris](https://github.com/LakoMoor/aeris) | An operating system written in Rust. |
+
+### 🔌 FPGA & hardware
+
+| Project | What it is |
+| :--- | :--- |
+| [openTPU · Tang Nano 20K](https://github.com/LakoMoor/openTPU-tangnano20k) `★ 2` | An AI accelerator ISA on a $25 FPGA. Language models streamed from an SD card, bit-exact with the simulator. |
+| [Open Pocket GBC](https://github.com/LakoMoor/open-pocket-gbc) `★ 4` | Game Boy / Game Boy Color on the Tang Nano 20K: HDMI, Pocket-style menu, ST7735 LCD. Open toolchain only. |
+| [OpenNokia3310](https://github.com/LakoMoor/OpenNokia3310) | Nokia 3310 firmware on FPGA: ARM7TDMI, HDMI, ST7735S, DualShock 2. |
+
+### 📱 Mobile
+
+[opencode-android](https://github.com/LakoMoor/opencode-android) — OpenCode on Android, self-contained APK ·
+[pi-android](https://github.com/LakoMoor/pi-android) — Pi coding agent with a local Ubuntu (PRoot) ·
+[ios-beryllium](https://github.com/LakoMoor/ios-beryllium) — iOS 16 on Poco F1
 
 <br />
 
-[openSA](https://github.com/LakoMoor/openSA) — GTA San Andreas runtime in C++ ·
-[sbox-rs](https://github.com/LakoMoor/sbox-rs) — Source 2 formats and rendering in Rust ·
-[pz-rust](https://github.com/LakoMoor/pz-rust) — Project Zomboid reimplementation ·
-[Open Pocket GBC](https://github.com/LakoMoor/open-pocket-gbc) — Game Boy / Game Boy Color on FPGA ·
-[L2D](https://github.com/LakoMoor/L2D) — an earlier C++ / SDL2 engine
-
-</details>
-
-<br />
-
-## `03` &nbsp; Feeding the snake
+## `04` &nbsp; Feeding the snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
@@ -125,6 +144,10 @@ A parametric equalizer for browser tabs. Drag the filters, watch the spectrum, s
 <sub>My contribution graph, one square at a time. [Updated daily](https://github.com/LakoMoor/LakoMoor/actions/workflows/snake.yml) · [Made with snk](https://github.com/Platane/snk)</sub>
 
 <br />
+
+## `05` &nbsp; Say hi
+
+Open to talking about LLM training and alignment, reverse engineering, FPGA, and Rust ports. Best way: the [website](https://lakomoor.com) or an issue in any repo above.
 
 ---
 
